@@ -20,6 +20,13 @@ public class RR {
 	{
 		System.out.println("M4");
 	}
+
+
+	public void loginDetails()
+	{
+System.out.println("LOGINDETAILS");
+	}
+
 	public static void main(String[] args) {
 		RR.m1();
 		RR.m2();
