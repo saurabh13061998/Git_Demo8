@@ -11,10 +11,17 @@ public class RR {
 	{
 		System.out.println("M2");
 	}
+
+	public static void m3()
+	{
+		System.out.println("M3");
+	}
 	
 	public static void main(String[] args) {
 		RR.m1();
 		RR.m2();
+		RR.m3();
+
 
 	}
 }
